@@ -1,0 +1,1 @@
+# Assignment-1-write-50-Numpy-Function
